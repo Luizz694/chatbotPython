@@ -1,0 +1,14 @@
+[
+    {
+        "padrao": "Qual linguagem mais gostou\\??|Qual linguagem mais curtiu\\??",
+        "respostas": ["Uma das que mais gostei e estou nesse momento fazendo esse bot é Python!", "Uma linguagem que amei foi C com foco em estrutura de dados!"]
+    },
+    {
+        "padrao": "Qual linguagem menos gostou\\??|Qual linguagem mais detestou\\??",
+        "respostas": ["Por mais que pareça ser divertido a que menos gostei foi Java, mas atribuo isso outros fatores"]
+    },
+    {
+        "padrao": "Qual linguagem você quer se desenvolver\\??",
+        "respostas": "Python, Java e C"
+    }
+]

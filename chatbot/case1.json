@@ -1,0 +1,30 @@
+[
+  {
+    "padrao": "oi|olá",
+    "respostas": ["Oi!", "Olá, tudo bem?"]
+  },
+  {
+    "padrao": "qual (é|eh) o seu nome\\??",
+    "respostas": ["Me chamo PythonBot!", "Sou um chatbot em Python."]
+  },
+  {
+    "padrao": "(obrigado|valeu)",
+    "respostas": ["De nada!", "Sempre às ordens."]
+  },
+  {
+    "padrao": "(tchau|adeus)",
+    "respostas": ["Tchau! Volte sempre.", "Até logo!"]
+  },
+  {
+    "padrao": "(Tudo bem?|Como vai?|Como você está?)",
+    "respostas": ["Estou bem e você?"]
+  },
+  {
+    "padrao": "(Hi|Hello)",
+    "respostas": ["Hi!", "Hello! How are you?"]
+  },
+  {
+    "padrao": "How are you?",
+    "respostas": ["I'm fine and you?", "I'm god and you?"]
+}
+]
